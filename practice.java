@@ -1,8 +1,7 @@
-public class practice {
+public class Butterfly_pattern{
     public static void main(String[] arg){
-        int n=4;
-        // int m=6;
-        // int count =1;
+      int n=4;
+     
 
         //upper half
         for (int i = 1; i <= n; i++) {
